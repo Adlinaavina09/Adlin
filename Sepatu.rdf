@@ -7,7 +7,7 @@
 
         <rdf:Description
         rdf:about = "http://www.adidas.co.id/sepatu-sport-adidas-x-lego-reg-422462.html">
-            <dbp:products> Sepatu Sport adidas x lego </dbp:products>
+            <dc:title> Sepatu Sport adidas x lego </dc:title>
             <dc:img> https://www.adidas.co.id/media/catalog/product/f/z/fz5444_sl_ecom.jpg </dc:img>
             <ns1:hasMerk> Adidas </ns1:hasMerk>
             <ns1:hasSize> 3 Tahun </ns1:hasSize>
