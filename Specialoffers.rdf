@@ -1,0 +1,63 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"> 
+    <rdf:Description rdf:about="https://www.zalora.co.id/">
+        <dc:know rdf:resource="https://www.zalora.co.id/dc-trase-tx-black-2691534.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/puma-fluff-women-s-sandals-black-2993032.html" />
+        <dc:know rdf:resource="https://www.zalora.co.id/puma-puma-break-point-vulc-trainers-white-2992532.html?last_csa=PDVView-RecFeed-Produk%20Yang%20Serupa-RR" />
+        <dc:know rdf:resource="https://www.zalora.co.id/nike-victori-one-red-2622031.html?last_csa=PDVView-RecFeed-Produk%20Yang%20Serupa-RR" />
+    </rdf:Description>
+	
+		<rdf:Description
+        rdf:about = "https://www.zalora.co.id/dc-trase-tx-black-2691534.html">
+            <dc:product>  Trase Tx </dc:product>
+            <dc:img>  https://dynamic.zacdn.com/SIpF8OIaGo3_VqZqLTaR7J2F8Bo=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/dc-3030-4351962-1.jpg </dc:img>
+            <dc:hasMerk> DC </dc:hasMerk>
+            <dc:hasSize> 10 </dc:hasSize>
+            <dc:ket> Classic slide silhouette featuring Clarks Cushion Soft™ technology with EVA molded OrthoLite® footbed ensures flexible support with every step. Slip-on design with strappy vamp detail is perfect for dressing up or down.Open back with hook-and-loop closure for a perfect fit.Buttery soft textile upper and man-made lining for all day comfort.Composition rubber outsole. </dc:ket>
+            <dc:hasColor> Black/Gum </dc:hasColor>
+            <dc:price> IDR 349.500 </dc:price>
+            <dc:review> 5.0 </dc:review>
+	    <dc:identifier> special1.php </dc:identifier>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/puma-fluff-women-s-sandals-black-2993032.html">
+            <dc:product> Fluff Women's Sandals </dc:product>
+            <dc:img> https://dynamic.zacdn.com/oG_8Zji05DEXVmB0-Huoa8piFNo=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/puma-4905-2303992-2.jpg </dc:img>
+            <dc:hasMerk> Puma </dc:hasMerk>
+            <dc:hasSize> 7 </dc:hasSize>
+            <dc:ket> Sandal desain fluffy panel yang nyaman digunakan Upper tekstil, EVA insole, Rubber outsole, Open toe</dc:ket>
+            <dc:hasColor> Black </dc:hasColor>
+            <dc:price> IDR 324.350 </dc:price>
+            <dc:review> 4.7 </dc:review>
+	    <dc:identifier> special2.php </dc:identifier>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/puma-puma-break-point-vulc-trainers-white-2992532.html?last_csa=PDVView-RecFeed-Produk%20Yang%20Serupa-RR">
+            <dc:product> Puma Break Point Vulc Trainers </dc:product>
+            <dc:img> https://dynamic.zacdn.com/PCAQv1-ASsYkh0tCtYSJxQbGYiM=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/puma-1978-2352992-1.jpg </dc:img>
+            <dc:hasMerk> Puma </dc:hasMerk>
+            <dc:hasSize> 6.5 </dc:hasSize>
+            <dc:ket> Sneakers dengan siluet versatile bergaya casual urban, Warna putih, Upper tekstil, Insole tekstil, Rubber outsole </dc:ket>
+            <dc:hasColor> Puma White/High Ris </dc:hasColor>
+            <dc:price> IDR 539.400 </dc:price>
+            <dc:review> 4.5 </dc:review>
+	    <dc:identifier> special3.php </dc:identifier>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/nike-victori-one-red-2622031.html?last_csa=PDVView-RecFeed-Produk%20Yang%20Serupa-RR">
+            <dc:product> Victori One  </dc:product>
+            <dc:img> https://dynamic.zacdn.com/0-ocDutD9dVUz3_0u56M2QeyKsw=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/nike-1999-1302262-1.jpg </dc:img>
+            <dc:hasMerk> Nike </dc:hasMerk>
+            <dc:hasSize> 6 </dc:hasSize>
+            <dc:ket> Sandal bernuansa pastel dengan iconic swoosh, Warna pink, Upper tekstil, Insole tekstil, Outsole tekstil, Dengan desain quick dry, Open toe</dc:ket>
+            <dc:hasColor> Barely Rose </dc:hasColor>
+            <dc:price> IDR 244.300 </dc:price>
+            <dc:review> 4.0 </dc:review>
+	    <dc:identifier> special.4php </dc:identifier>
+        </rdf:Description> 
+		</rdf:RDF>
